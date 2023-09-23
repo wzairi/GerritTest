@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a8cc7d6e_f8c284ad",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1021825
+      },
+      "writtenOn": "2023-09-23T10:58:30Z",
+      "side": 1,
+      "message": "Commit body meessage was added",
+      "revId": "0590f974234fabd6e4e2172ffc2e7c1e7f852ded",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}

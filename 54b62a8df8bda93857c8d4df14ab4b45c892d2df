@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5c9d45e4_43e2fbe4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1021825
+      },
+      "writtenOn": "2023-09-23T10:58:30Z",
+      "side": 1,
+      "message": "Please add commit body to explain more the change",
+      "revId": "54b62a8df8bda93857c8d4df14ab4b45c892d2df",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
