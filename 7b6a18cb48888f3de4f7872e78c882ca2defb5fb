@@ -16,6 +16,23 @@
       "message": "verify your commit !!\nyour change is not good",
       "revId": "7b6a18cb48888f3de4f7872e78c882ca2defb5fb",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a1ddb7d0_9ca33e4c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1021982
+      },
+      "writtenOn": "2023-10-03T14:04:41Z",
+      "side": 1,
+      "message": "not well documented",
+      "revId": "7b6a18cb48888f3de4f7872e78c882ca2defb5fb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
