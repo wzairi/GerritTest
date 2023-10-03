@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "681fdeec_b3effe9a",
+        "filename": "src/test.h",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1021825
+      },
+      "writtenOn": "2023-10-03T14:02:24Z",
+      "side": 1,
+      "message": "Please remove extra space",
+      "revId": "876cb0bddc9260cecfb3e667bba4de9f869332bd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
