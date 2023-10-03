@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2ba0abbc_d6dd1d6d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1021977
+      },
+      "writtenOn": "2023-10-03T13:59:53Z",
+      "side": 1,
+      "message": "khatik developpement",
+      "revId": "891cc60814efbdc55198f17bce36d2b887e24c4d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
